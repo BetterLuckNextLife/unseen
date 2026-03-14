@@ -41,7 +41,7 @@ This command simply reapplies the invisibility logic to all online players.
 
 # Setup
 
-1. Go to Releases
+1. Go to [Releases](https://github.com/BetterLuckNextLife/unseen/releases)
 2. Download the desired `.jar`
 3. Put the file in your server's `/plugins` folder
 4. Start the server
