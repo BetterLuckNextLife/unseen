@@ -48,3 +48,8 @@ This command simply reapplies the invisibility logic to all online players.
 
 Done.
 
+---
+
+License
+
+[MIT](./LICENSE) License
