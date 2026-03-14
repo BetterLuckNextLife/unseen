@@ -1,0 +1,19 @@
+name: Unseen
+version: 1.0.0
+main: org.betterluck.unseen.Unseen
+api-version: "1.21"
+
+commands:
+  unseen:
+    description: Refresh Unseen state
+    usage: /unseen reload
+    permission: unseen.reload
+
+permissions:
+  unseen.reload:
+    description: Refresh Unseen
+    default: op
+
+  unseen.seehidden:
+    description: See invisible players in tab
+    default: op
